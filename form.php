@@ -84,19 +84,7 @@
               ';
         }
       ?>
-
-
-
-      <form action="post" action="">
-        <div class="mb-3 mt-3">
-          <label for="FirstName">First Name:</label>
-          <input type="text" class="form-control" id="FirstName" placeholder="Enter First Name" name="FirstName">
-        </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
-      </form>
     </div>
-  </div>
-</div>
 
 <div class="mt-5 p-4 bg-dark text-white text-center">
   <p>Footer</p>
